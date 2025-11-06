@@ -23,41 +23,51 @@ Execute the necessary commands/batch file for the desired output.
 # WINDOWS COMMANDS:
 ## Exercise 1: Basic Directory and File Operations
 Create a directory named "my-folder"
+<img width="578" height="110" alt="image" src="https://github.com/user-attachments/assets/8b0bcc51-0665-4c96-8968-27398e6a0136" />
 
 ## COMMAND AND OUTPUT
 
 Remove the directory "my-folder"
+<img width="374" height="46" alt="image" src="https://github.com/user-attachments/assets/0c785b6f-0714-4747-aebd-52959e773ca9" />
 
 ## COMMAND AND OUTPUT
 
 
 Create the file Rose.txt
+<img width="623" height="347" alt="image" src="https://github.com/user-attachments/assets/89cccd2a-f37e-498c-8271-0ab892fcd3d1" />
 
 ## COMMAND AND OUTPUT
 
 
 Create the file hello.txt using echo and redirection
+<img width="573" height="106" alt="image" src="https://github.com/user-attachments/assets/af67c6ff-bcbd-4b14-97d0-d2ae141470d9" />
 
 ## COMMAND AND OUTPUT
 
 Copy the file hello.txt into the file hello1.txt
+<img width="494" height="123" alt="image" src="https://github.com/user-attachments/assets/d0be2f2c-25ee-426c-be37-ba715902b6de" />
 
 ## COMMAND AND OUTPUT
 
 Remove the file hello1.txt
+<img width="425" height="182" alt="image" src="https://github.com/user-attachments/assets/96abba86-00e6-4c69-8131-5a6ee4aca55c" />
 
 ## COMMAND AND OUTPUT
 
 List out the file hello1.txt in the current directory
+<img width="459" height="172" alt="image" src="https://github.com/user-attachments/assets/776d9bce-e439-4180-b2e1-f0aeb013dfd9" />
 
 ## COMMAND AND OUTPUT
 
 List out all the associated file extensions 
+<img width="524" height="1060" alt="image" src="https://github.com/user-attachments/assets/5e55078b-904e-4b65-b045-345e47e4a30e" />
+<img width="780" height="548" alt="image" src="https://github.com/user-attachments/assets/3b10622b-a30e-44b8-ac4a-a475d5cf7b5f" />
 
 ## COMMAND AND OUTPUT
 
 
 Compare the file hello.txt and rose.txt
+<img width="498" height="186" alt="image" src="https://github.com/user-attachments/assets/2cbd38a3-d623-445a-b1ce-2f4ce7c77516" />
 
 ## COMMAND AND OUTPUT
 
@@ -65,6 +75,7 @@ Compare the file hello.txt and rose.txt
 Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
 
 
+<img width="405" height="101" alt="image" src="https://github.com/user-attachments/assets/6f500e6e-b350-4dec-a68a-5eebcc508448" />
 
 
 
