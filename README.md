@@ -23,43 +23,51 @@ Execute the necessary commands/batch file for the desired output.
 # WINDOWS COMMANDS:
 ## Exercise 1: Basic Directory and File Operations
 Create a directory named "my-folder"
+
 <img width="578" height="110" alt="image" src="https://github.com/user-attachments/assets/8b0bcc51-0665-4c96-8968-27398e6a0136" />
 
 ## COMMAND AND OUTPUT
 
 Remove the directory "my-folder"
+
 <img width="374" height="46" alt="image" src="https://github.com/user-attachments/assets/0c785b6f-0714-4747-aebd-52959e773ca9" />
 
 ## COMMAND AND OUTPUT
 
 
 Create the file Rose.txt
+
 <img width="623" height="347" alt="image" src="https://github.com/user-attachments/assets/89cccd2a-f37e-498c-8271-0ab892fcd3d1" />
 
 ## COMMAND AND OUTPUT
 
 
 Create the file hello.txt using echo and redirection
+
 <img width="573" height="106" alt="image" src="https://github.com/user-attachments/assets/af67c6ff-bcbd-4b14-97d0-d2ae141470d9" />
 
 ## COMMAND AND OUTPUT
 
 Copy the file hello.txt into the file hello1.txt
+
 <img width="494" height="123" alt="image" src="https://github.com/user-attachments/assets/d0be2f2c-25ee-426c-be37-ba715902b6de" />
 
 ## COMMAND AND OUTPUT
 
 Remove the file hello1.txt
+
 <img width="425" height="182" alt="image" src="https://github.com/user-attachments/assets/96abba86-00e6-4c69-8131-5a6ee4aca55c" />
 
 ## COMMAND AND OUTPUT
 
 List out the file hello1.txt in the current directory
+
 <img width="459" height="172" alt="image" src="https://github.com/user-attachments/assets/776d9bce-e439-4180-b2e1-f0aeb013dfd9" />
 
 ## COMMAND AND OUTPUT
 
 List out all the associated file extensions 
+
 <img width="524" height="1060" alt="image" src="https://github.com/user-attachments/assets/5e55078b-904e-4b65-b045-345e47e4a30e" />
 <img width="780" height="548" alt="image" src="https://github.com/user-attachments/assets/3b10622b-a30e-44b8-ac4a-a475d5cf7b5f" />
 
@@ -67,6 +75,7 @@ List out all the associated file extensions
 
 
 Compare the file hello.txt and rose.txt
+
 <img width="498" height="186" alt="image" src="https://github.com/user-attachments/assets/2cbd38a3-d623-445a-b1ce-2f4ce7c77516" />
 
 ## COMMAND AND OUTPUT
@@ -75,11 +84,15 @@ Compare the file hello.txt and rose.txt
 Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
 
 
-<img width="405" height="101" alt="image" src="https://github.com/user-attachments/assets/6f500e6e-b350-4dec-a68a-5eebcc508448" />
+
 
 
 
 ## OUTPUT
+
+<img width="405" height="101" alt="image" src="https://github.com/user-attachments/assets/6f500e6e-b350-4dec-a68a-5eebcc508448" />
+
+
 
 
 
@@ -93,7 +106,11 @@ Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 
 
 
+
 ## OUTPUT
+
+<img width="610" height="406" alt="image" src="https://github.com/user-attachments/assets/85fd9404-0c64-4d25-9d99-1a91db7c28ee" />
+
 
 
 
@@ -103,9 +120,10 @@ Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1
 
 
 
+
 ## OUTPUT
 
-
+<img width="432" height="199" alt="image" src="https://github.com/user-attachments/assets/4b275220-5408-40bb-a281-5e946c845d45" />
 
 
 Write a batch script to check whether a file named sample.txt exists in the current directory. If the file exists, display the message sample.txt exists. Otherwise, display sample.txt does not exist. Pause the script at the end to view the result.
@@ -116,8 +134,12 @@ Make sure the script works for files located in the same directory as the batch 
 Use pause to keep the command window open after displaying the message.
 Expected Output (if the file exists):
 
+
+
+
 ## OUTPUT
 
+<img width="621" height="138" alt="image" src="https://github.com/user-attachments/assets/d0d8309a-e4ba-4211-85f6-2f8e94f0674f" />
 
 Write a batch script that displays a simple menu with three options:
 Say Hello – Displays the message Hello, World!
@@ -126,9 +148,11 @@ Exit – Exits the script with a goodbye message
 The script should repeatedly display the menu until the user chooses to exit. Use goto statements to handle menu navigation.
 
 
+
+
 ## OUTPUT
 
-
+<img width="616" height="474" alt="image" src="https://github.com/user-attachments/assets/1de3d462-d354-4cde-8815-fe35c8dc0b0c" />
 
 # RESULT:
 The commands/batch files are executed successfully.
